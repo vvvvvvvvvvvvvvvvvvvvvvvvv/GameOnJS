@@ -1,0 +1,14 @@
+body {
+	background-color: #333;
+}
+
+#screen{
+
+display: block;
+background: #07A8FF;
+margin :70px auto 0px;
+
+}
+#bt1 {
+	float: right;
+}
